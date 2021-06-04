@@ -1,1 +1,1 @@
-worker: python ./ref.py
+worker: python pug/ref.py
