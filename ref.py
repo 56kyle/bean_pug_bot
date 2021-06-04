@@ -40,5 +40,6 @@ async def flip(ctx: commands.Context, *args):
         await ctx.send(random.choice(['Heads', 'Tails']))
 
 
-bot.run(TOKEN)
+if __name__ == '__main__':
+    bot.run(TOKEN)
 
