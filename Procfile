@@ -1,1 +1,1 @@
-worker: python ./ref.py
+worker: python bean_pug_bot/ref.py
